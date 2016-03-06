@@ -37,7 +37,8 @@
     "eslint-plugin-babel": "^2.1.1"
   },
   "dependencies": {
-    "lodash.memoize": "^3.0.4"
+    "lodash.memoize": "^3.0.4",
+    "intl-messageformat": "^1.1.0"
   },
   "peerDependencies": {
     "intl-messageformat": "^1.1.0"
